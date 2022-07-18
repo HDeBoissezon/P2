@@ -7,7 +7,7 @@ Elle souhaite donc réaliser une étude de marché qui permettra de répondre au
 - quelle sera l’évolution de ce potentiel de client ?
 - quels pays sont prioritaires ?
 
-
+_________________________________________
 Compétences développées pour ce projet :
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science
 - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
